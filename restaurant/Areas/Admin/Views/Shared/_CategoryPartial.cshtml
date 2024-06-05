@@ -1,0 +1,11 @@
+﻿@* @model List<Category>
+
+@foreach (var product in Model.Products)
+{
+    <tr class="odd">
+        <td class="sorting_1">@category.Name</td>
+        <td style="display:flex; justify-content:center"> <img width="40px" src="~/client/assets/categoryIcons/@category.Icon" /></td>
+        <td><a class=" btn btn-danger" asp-conttroller="Category" asp-action="Delete" id="deleteBtn" data-id="@categoory.Id">Delete</a></td>
+        <td><a class=" btn btn-warning" asp-conttroller="Category" asp-conttroller="Edit" asp-action="Edit" asp-route-id="@categoory.Id">Edit</a></td>
+    </tr>
+} *@
