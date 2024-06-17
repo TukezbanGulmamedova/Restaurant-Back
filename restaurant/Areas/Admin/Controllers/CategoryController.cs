@@ -24,7 +24,7 @@ namespace restaurant.Areas.Admin.Controllers
             return View(categories);
         }
 
-        [HttpPost]
+        [HttpGet]
         public IActionResult Create()
         {
             return View();
