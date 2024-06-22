@@ -7445,6 +7445,10 @@
       "PackagePath": "staticwebassets\\client\\assets\\Review.css"
     },
     {
+      "Id": "C:\\Users\\ASUS\\Desktop\\C# Project\\restaurant\\restaurant\\wwwroot\\client\\assets\\categoryIcons\\cc10514c-994a-4513-a838-bd032eb905ef_2024_05_06_19_28_IMG_0982.JPG",
+      "PackagePath": "staticwebassets\\client\\assets\\categoryIcons\\cc10514c-994a-4513-a838-bd032eb905ef_2024_05_06_19_28_IMG_0982.JPG"
+    },
+    {
       "Id": "C:\\Users\\ASUS\\Desktop\\C# Project\\restaurant\\restaurant\\wwwroot\\client\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\client\\assets\\css\\bootstrap.min.css"
     },
@@ -7663,6 +7667,10 @@
     {
       "Id": "C:\\Users\\ASUS\\Desktop\\C# Project\\restaurant\\restaurant\\wwwroot\\client\\assets\\js\\swiper-bundle.min.js",
       "PackagePath": "staticwebassets\\client\\assets\\js\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\C# Project\\restaurant\\restaurant\\wwwroot\\client\\assets\\login.css",
+      "PackagePath": "staticwebassets\\client\\assets\\login.css"
     },
     {
       "Id": "C:\\Users\\ASUS\\Desktop\\C# Project\\restaurant\\restaurant\\wwwroot\\client\\assets\\main.js",

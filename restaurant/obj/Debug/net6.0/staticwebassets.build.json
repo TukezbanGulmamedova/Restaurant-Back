@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BuhGdMhOk9ZNHLwtMyFoBgZVRGBiYcJDFrhOMPHWnag=",
+  "Hash": "XLxrScdMK2ZXVuIdJRTLWRrFXMdo7nZ9QMQp+jp4OEs=",
   "Source": "restaurant",
   "BasePath": "_content/restaurant",
   "Mode": "Default",
@@ -31603,6 +31603,23 @@
       "OriginalItemSpec": "wwwroot\\client\\assets\\About.css"
     },
     {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\C# Project\\restaurant\\restaurant\\wwwroot\\client\\assets\\categoryIcons\\cc10514c-994a-4513-a838-bd032eb905ef_2024_05_06_19_28_IMG_0982.JPG",
+      "SourceId": "restaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\C# Project\\restaurant\\restaurant\\wwwroot\\",
+      "BasePath": "_content/restaurant",
+      "RelativePath": "client/assets/categoryIcons/cc10514c-994a-4513-a838-bd032eb905ef_2024_05_06_19_28_IMG_0982.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\client\\assets\\categoryIcons\\cc10514c-994a-4513-a838-bd032eb905ef_2024_05_06_19_28_IMG_0982.JPG"
+    },
+    {
       "Identity": "C:\\Users\\ASUS\\Desktop\\C# Project\\restaurant\\restaurant\\wwwroot\\client\\assets\\Contact.css",
       "SourceId": "restaurant",
       "SourceType": "Discovered",
@@ -32553,6 +32570,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\client\\assets\\js\\swiper-bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\C# Project\\restaurant\\restaurant\\wwwroot\\client\\assets\\login.css",
+      "SourceId": "restaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\C# Project\\restaurant\\restaurant\\wwwroot\\",
+      "BasePath": "_content/restaurant",
+      "RelativePath": "client/assets/login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\client\\assets\\login.css"
     },
     {
       "Identity": "C:\\Users\\ASUS\\Desktop\\C# Project\\restaurant\\restaurant\\wwwroot\\client\\assets\\main.js",
